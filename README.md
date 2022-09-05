@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexsannd
-- 👀 I’m interested in Kotlin and Java development
-- 🌱 I’m currently learning Kotlin and Java for programming discord bots and minecraft plugins and android apps and more
+- 👀 I’m interested in Kotlin, Web, Python, C++ development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Discord: Alexsannd#4067
 
